@@ -2,7 +2,7 @@
 
 ## Description
 
-An simulator program that simulates the mission assignment process on the mars and calculates some related statistics in order to help improve the overall process.
+A simulator program that simulates the mission assignment process on the mars and calculates some related statistics in order to help improve the overall process.
 
 ## Chosen Data structure
 
